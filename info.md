@@ -15,10 +15,12 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 5. Enable the theme in your user profile (bottom left in Home Assistant)
  
 ## Screenshots
-![image]()
+![image](https://user-images.githubusercontent.com/5594088/72549551-3511e500-3891-11ea-8806-1248dd50f523.PNG)
+![image](https://user-images.githubusercontent.com/5594088/72549495-17dd1680-3891-11ea-8919-5fd18ff36a64.PNG)
 
 ## Optional disable background
 Remove or comment out the 3rd line in the file `themes/vaporwave-pink.yaml`
 
 ## Attributions
 - Background Image from [a0a0a0 @ wallhaven](https://whvn.cc/5wdj69)
+- Home layout heavily inspired by [Isabella Gross Alström](https://isabellaalstrom.github.io/)
