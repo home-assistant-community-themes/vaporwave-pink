@@ -1,5 +1,6 @@
 # Vaporwave Pink Pheme
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![GitHub last commit](https://img.shields.io/github/last-commit/linsvensson/vaporwave-pink-theme)](https://github.com/linsvensson/vaporwave-pink-theme)
 
 This is a theme for [Home Assistant](https://www.home-assistant.io/). You can install it [manually](#installation) or via [HACS](https://hacs.xyz/).
 
@@ -16,6 +17,7 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
  
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/5594088/72549551-3511e500-3891-11ea-8806-1248dd50f523.PNG)
+
 ![image](https://user-images.githubusercontent.com/5594088/72549495-17dd1680-3891-11ea-8919-5fd18ff36a64.PNG)
 
 ## Optional disable background
